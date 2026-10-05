@@ -2,7 +2,7 @@
 title: "Los mejores celulares gama media en Perú (Calidad-Precio)"
 description: "Análisis de los smartphones de gama media más recomendados en el mercado peruano por su batería, cámara y rendimiento."
 pubDate: "Oct 05 2026"
-heroImage: "https://unsplash.com"
+heroImage: "https://images.pexels.com/photos/28902919/pexels-photo-28902919.jpeg"
 ---
 
 El mercado de celulares en Perú está más competitivo que nunca. Ya no es necesario gastar más de 3,000 soles en un teléfono de gama alta para disfrutar de una pantalla fluida, cámaras de buena resolución y una batería que dure todo el día.
