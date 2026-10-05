@@ -2,7 +2,7 @@
 title: "Las mejores laptops calidad-precio en Perú para el 2027"
 description: "Guía completa de compra con las opciones más potentes y económicas del mercado peruano para estudiar o trabajar."
 pubDate: "Oct 05 2026"
-heroImage: "https://unsplash.com"
+heroImage: "https://images.pexels.com/photos/26150608/pexels-photo-26150608.jpeg"
 ---
 
 Elegir una laptop en el mercado peruano puede ser una tarea abrumadora. Entre tantas marcas, modelos y especificaciones técnicas, es fácil terminar pagando de más por un equipo lento o, por el contrario, comprar algo que no cubre nuestras necesidades.

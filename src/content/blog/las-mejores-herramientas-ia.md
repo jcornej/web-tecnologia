@@ -2,7 +2,7 @@
 title: "Las mejores herramientas de Inteligencia Artificial para estudiantes en Perú"
 description: "Descubre las aplicaciones de IA más útiles y gratuitas para organizar tus estudios, resumir PDFs y potenciar tus tareas."
 pubDate: "Oct 05 2026"
-heroImage: "https://unsplash.com"
+heroImage: "https://images.pexels.com/photos/30530410/pexels-photo-30530410.jpeg"
 ---
 
 La Inteligencia Artificial ha dejado de ser una novedad tecnológica para convertirse en el mejor asistente de estudio para miles de escolares, universitarios e institutos en el Perú. 

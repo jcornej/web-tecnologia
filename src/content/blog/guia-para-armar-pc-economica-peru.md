@@ -1,7 +1,7 @@
 ---
 title: "Guía para armar una PC Gamer económica en Perú (2027)"
 description: "Presupuesto detallado en Soles para armar una computadora para jugar y estudiar sin gastar una fortuna."
-pubDate: "Oct 05 2026"
+pubDate: "05 oct 2026"
 heroImage: "https://images.pexels.com/photos/2582931/pexels-photo-2582931.jpeg"
 ---
 
