@@ -5,7 +5,8 @@ import HeaderLink from './HeaderLink.astro';
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<h2><a href="/"><img src="/logo-mundo-digital.png" alt="Mundo Digital PE" class="nav-logo" />
+		</a></h2>
 		<div class="internal-links">
 			<HeaderLink href="/">Inicio</HeaderLink>
 			<HeaderLink href="/blog">Artículos</HeaderLink>
@@ -41,6 +42,13 @@ import HeaderLink from './HeaderLink.astro';
 			</a>
 		</div>
 	</nav>
+	<style>
+	.nav-logo {
+		height: 40px; /* Ajusta la altura a tu gusto para que no se vea gigante */
+		width: auto;
+		display: block;
+	}
+</style>
 </header>
 <style>
 	header {
