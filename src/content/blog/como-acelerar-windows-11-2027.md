@@ -2,7 +2,7 @@
 title: "Cómo acelerar Windows 11 al máximo en 2027 (Sin programas)"
 description: "Guía paso a paso para optimizar el rendimiento de tu PC o laptop con Windows 11 de forma segura."
 pubDate: "Oct 05 2026"
-heroImage: "https://unsplash.com"
+heroImage: "https://images.pexels.com/photos/28907898/pexels-photo-28907898.jpeg"
 ---
 
 Con el paso del tiempo y las actualizaciones constantes, es completamente normal que Windows 11 comience a sentirse pesado o lento, especialmente en laptops de gama media o baja. 
